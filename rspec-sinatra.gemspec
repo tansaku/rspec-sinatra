@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
     lib/rspec/sinatra/generators.rb
     lib/rspec/sinatra/templates/app.rbt
     lib/rspec/sinatra/templates/config.ru
-    lib/rspec/sinatra/templates/spec/step_helper.rbt
+    lib/rspec/sinatra/templates/spec/spec_helper.rbt
   ]
   # = MANIFEST =
 
